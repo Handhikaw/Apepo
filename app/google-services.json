@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "581615607843",
+    "firebase_url": "https://apepo-9e06f.firebaseio.com",
+    "project_id": "apepo-9e06f",
+    "storage_bucket": "apepo-9e06f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:581615607843:android:90fd0f5b55cbe7cd",
+        "android_client_info": {
+          "package_name": "com.harkandavez.android.apepo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "581615607843-id94q8qnn0thfga900j8f97nsr1bptsm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBvS-2QXIof-mocOHlpAfoJSOyXF9iGbGc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
